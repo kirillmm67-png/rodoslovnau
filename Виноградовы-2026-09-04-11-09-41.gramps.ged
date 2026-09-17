@@ -1,0 +1,3112 @@
+0 HEAD
+1 SOUR Gramps
+2 VERS AIO64-6.0.4--1
+2 NAME Gramps
+1 DATE 15 SEP 2026
+2 TIME 07:24:06
+1 SUBM @SUBM@
+1 FILE C:\Users\kiril\Виноградовы-2026-09-04-11-09-41.gramps.ged
+1 COPR Copyright (c) 2026 .
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG Russian
+0 @SUBM@ SUBM
+1 NAME
+0 @0@ INDI
+1 NAME Василий Яковлевич /Виноградов/
+2 TYPE birth
+2 GIVN Василий Яковлевич
+2 SURN Виноградов
+1 SEX M
+1 FAMC @F0001@
+2 PEDI birth
+1 FAMS @F0067@
+1 NOTE @N0006@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:43:44
+0 @00@ INDI
+1 NAME Яков /Виноградов/
+2 TYPE birth
+2 GIVN Яков
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1718
+1 DEAT
+2 DATE 1790
+1 FAMC @F0068@
+2 PEDI birth
+1 FAMS @F0001@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:58:11
+0 @000@ INDI
+1 NAME Иван /Виноградов/
+2 TYPE birth
+2 GIVN Иван
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1690
+1 DEAT
+2 DATE 1740
+1 FAMC @F0069@
+2 PEDI birth
+1 FAMS @F0068@
+1 NOTE @N0007@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:58:18
+0 @0000@ INDI
+1 NAME Степан /Виноградов/
+2 TYPE birth
+2 GIVN Степан
+2 SURN Виноградов
+1 SEX M
+1 FAMS @F0069@
+1 CHAN
+2 DATE 12 SEP 2026
+3 TIME 06:52:29
+0 @01@ INDI
+1 NAME Дмитрий /Виноградов/
+2 TYPE birth
+2 GIVN Дмитрий
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1720
+1 DEAT
+2 DATE 1758
+1 FAMC @F0068@
+2 PEDI birth
+1 NOTE @N0000@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:58:11
+0 @1@ INDI
+1 NAME Андрей /Виноградов/
+2 TYPE birth
+2 GIVN Андрей
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1800
+1 DEAT
+2 DATE 1860
+1 FAMC @F0067@
+2 PEDI birth
+1 FAMS @F0066@
+1 NOTE @N0001@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:58:04
+0 @11@ INDI
+1 NAME Пётр Андреевич /Виноградов/
+2 TYPE birth
+2 GIVN Пётр Андреевич
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1844
+1 DEAT
+2 DATE 1909
+1 FAMC @F0066@
+2 PEDI birth
+1 FAMS @F0003@
+1 CHAN
+2 DATE 12 SEP 2026
+3 TIME 06:25:56
+0 @111@ INDI
+1 NAME Михаил Петрович /Виноградов/
+2 TYPE birth
+2 GIVN Михаил Петрович
+2 SURN Виноградов
+2 _RUFNAME Михпет
+1 SEX M
+1 BIRT
+2 DATE 1872
+1 DEAT
+2 DATE 1934
+1 FAMC @F0003@
+2 PEDI birth
+1 FAMS @F0004@
+1 FAMS @F0005@
+1 FAMS @F0006@
+1 FAMS @F0007@
+1 NOTE @N0009@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:44:03
+0 @1111@ INDI
+1 NAME Роман Михайлович /Виноградов/
+2 TYPE birth
+2 GIVN Роман Михайлович
+2 SURN Виноградов
+1 SEX M
+1 FAMC @F0007@
+2 PEDI birth
+1 FAMS @F0071@
+1 FAMS @F0072@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:44:45
+0 @1111супр1@ INDI
+1 NAME Ал. Ивановна //
+2 TYPE birth
+2 GIVN Ал. Ивановна
+2 NICK Екся
+1 SEX F
+1 FAMS @F0071@
+1 CHAN
+2 DATE 12 SEP 2026
+3 TIME 08:28:23
+0 @1111супр2@ INDI
+1 NAME Агния Юльевна //
+2 TYPE birth
+2 GIVN Агния Юльевна
+1 SEX F
+1 FAMS @F0072@
+1 CHAN
+2 DATE 12 SEP 2026
+3 TIME 08:30:04
+0 @1112@ INDI
+1 NAME Ольга Михайловна /Виноградова/
+2 TYPE birth
+2 GIVN Ольга Михайловна
+2 SURN Виноградова
+2 NICK Лёля
+1 SEX F
+1 BIRT
+2 DATE 1902
+1 DEAT
+2 DATE 1918
+1 FAMC @F0007@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:44:45
+0 @1113@ INDI
+1 NAME Игорь Михайлович /Виноградов/
+2 TYPE birth
+2 GIVN Игорь Михайлович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1903
+1 DEAT
+2 DATE 1942
+1 FAMC @F0007@
+2 PEDI birth
+1 FAMS @F0008@
+1 FAMS @F0009@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:44:45
+0 @11131@ INDI
+1 NAME Игореевич /Виноградов/
+2 TYPE birth
+2 GIVN Игореевич
+2 SURN Виноградов
+1 SEX M
+1 FAMC @F0008@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:46:40
+0 @11132@ INDI
+1 NAME Слава Игореевна /Виноградова/
+2 TYPE birth
+2 GIVN Слава Игореевна
+2 SURN Виноградова
+1 SEX F
+1 FAMC @F0009@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:46:54
+0 @1113супр1@ INDI
+1 NAME Зина //
+2 TYPE birth
+2 GIVN Зина
+1 SEX F
+1 FAMS @F0008@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @1113супр2@ INDI
+1 NAME Соня //
+2 TYPE birth
+2 GIVN Соня
+1 SEX F
+1 FAMS @F0009@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @1114@ INDI
+1 NAME Пётр Михайлович /Виноградов/
+2 TYPE birth
+2 GIVN Пётр Михайлович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1904
+1 DEAT
+2 DATE 1981
+1 FAMC @F0007@
+2 PEDI birth
+1 FAMS @F0010@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:44:45
+0 @11141@ INDI
+1 NAME Александр Петрович /Виноградов/
+2 TYPE birth
+2 GIVN Александр Петрович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1929
+1 FAMC @F0010@
+2 PEDI birth
+1 FAMS @F0011@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:47:01
+0 @111411@ INDI
+1 NAME Люба Александровна /Виноградова/
+2 TYPE birth
+2 GIVN Люба Александровна
+2 SURN Виноградова
+1 SEX F
+1 FAMC @F0011@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:47:14
+0 @11141супр@ INDI
+1 NAME Анна Ивановна /Виноградова/
+2 TYPE birth
+2 GIVN Анна Ивановна
+2 SURN Виноградова
+1 SEX F
+1 FAMS @F0011@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @11142@ INDI
+1 NAME Владимир Петрович /Виноградов/
+2 TYPE birth
+2 GIVN Владимир Петрович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1946
+1 FAMC @F0010@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:47:01
+0 @1114супр@ INDI
+1 NAME Валентина Степановна /Виноградова/
+2 TYPE married
+2 GIVN Валентина Степановна
+2 SURN Виноградова
+1 SEX F
+1 FAMS @F0010@
+1 CHAN
+2 DATE 12 SEP 2026
+3 TIME 08:49:11
+0 @1115@ INDI
+1 NAME Лев Михайлович /Виноградов/
+2 TYPE birth
+2 GIVN Лев Михайлович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1906
+1 FAMC @F0007@
+2 PEDI birth
+1 FAMC @F0073@
+2 PEDI birth
+1 FAMS @F0074@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:58:47
+0 @11151@ INDI
+1 NAME Светлана Львовна /Виноградова/
+2 TYPE birth
+2 GIVN Светлана Львовна
+2 SURN Виноградова
+1 SEX F
+1 FAMC @F0074@
+2 PEDI birth
+1 FAMS @F0075@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:58:53
+0 @111511@ INDI
+1 NAME Сергей //
+2 TYPE birth
+2 GIVN Сергей
+1 SEX M
+1 FAMC @F0075@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:58:59
+0 @1116@ INDI
+1 NAME Андрей Михайлович /Виноградов/
+2 TYPE birth
+2 GIVN Андрей Михайлович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1909
+1 DEAT
+2 DATE 1943
+1 FAMC @F0006@
+2 PEDI birth
+1 FAMC @F0007@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:44:45
+0 @1117@ INDI
+1 NAME Мая Михайловна /Виноградова/
+2 TYPE birth
+2 GIVN Мая Михайловна
+2 SURN Виноградова
+1 SEX F
+1 FAMC @F0006@
+2 PEDI birth
+1 FAMC @F0007@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:44:45
+0 @1118@ INDI
+1 NAME Юрий Михайлович /Виноградов/
+2 TYPE birth
+2 GIVN Юрий Михайлович
+2 SURN Виноградов
+1 SEX M
+1 FAMC @F0006@
+2 PEDI birth
+1 FAMC @F0007@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:44:45
+0 @111супр1@ INDI
+1 NAME Александра Ивановна /Муравьёва/
+2 TYPE birth
+2 GIVN Александра Ивановна
+2 SURN Муравьёва
+1 SEX F
+1 BIRT
+2 DATE 1874
+1 DEAT
+2 DATE 1920
+1 FAMS @F0004@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @111супр2@ INDI
+1 NAME Вера Васильевна /Несмеянова/
+2 TYPE birth
+2 GIVN Вера Васильевна
+2 SURN Несмеянова
+1 SEX F
+1 BIRT
+2 DATE 1873
+1 DEAT
+2 DATE 1968
+1 FAMS @F0005@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @111супр3@ INDI
+1 NAME Евгения Алексеевна /Кудрявцева/
+2 TYPE birth
+2 GIVN Евгения Алексеевна
+2 SURN Кудрявцева
+1 SEX F
+1 FAMS @F0006@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @112@ INDI
+1 NAME Анна Петровна /Виноградова/
+2 TYPE birth
+2 GIVN Анна Петровна
+2 SURN Виноградова
+2 NICK Ниточка
+1 SEX F
+1 BIRT
+2 DATE 1873
+1 DEAT
+2 DATE 19--
+1 FAMC @F0003@
+2 PEDI birth
+1 FAMS @F0012@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:44:03
+0 @1121@ INDI
+1 NAME Игорь Николаевич /Муравьёв/
+2 TYPE birth
+2 GIVN Игорь Николаевич
+2 SURN Муравьёв
+1 SEX M
+1 BIRT
+2 DATE 1906
+1 DEAT
+2 DATE 1980
+1 FAMC @F0012@
+2 PEDI birth
+1 FAMS @F0013@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:47:27
+0 @11211@ INDI
+1 NAME Татьяна Игоревна /Муравьёва/
+2 TYPE birth
+2 GIVN Татьяна Игоревна
+2 SURN Муравьёва
+1 SEX F
+1 BIRT
+2 DATE 1943
+1 FAMC @F0013@
+2 PEDI birth
+1 FAMS @F0014@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:47:36
+0 @112111@ INDI
+1 NAME Игорь Юрьевич /Муравьёв/
+2 TYPE birth
+2 GIVN Игорь Юрьевич
+2 SURN Муравьёв
+1 SEX M
+1 BIRT
+2 DATE 1969
+1 FAMC @F0014@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:47:46
+0 @112112@ INDI
+1 NAME Алексей Юрьевич /Муравьёв/
+2 TYPE birth
+2 GIVN Алексей Юрьевич
+2 SURN Муравьёв
+1 SEX M
+1 FAMC @F0014@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:47:46
+0 @11211супр@ INDI
+1 NAME Юрий /Шапченко/
+2 TYPE birth
+2 GIVN Юрий
+2 SURN Шапченко
+1 SEX M
+1 BIRT
+2 DATE 1939
+1 FAMS @F0014@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @1121супр@ INDI
+1 NAME Зинаида Григорьевна /Муравьёва/
+2 TYPE birth
+2 GIVN Зинаида Григорьевна
+2 SURN Муравьёва
+1 SEX F
+1 BIRT
+2 DATE 1913
+1 FAMS @F0013@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @1122@ INDI
+1 NAME Галина Николаевна /Муравьёва/
+2 TYPE birth
+2 GIVN Галина Николаевна
+2 SURN Муравьёва
+1 SEX F
+1 BIRT
+2 DATE 1908
+1 FAMC @F0012@
+2 PEDI birth
+1 FAMS @F0015@
+1 FAMS @F0016@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:47:27
+0 @11221@ INDI
+1 NAME Ал. Ал. /Сегай/
+2 TYPE birth
+2 GIVN Ал. Ал.
+2 SURN Сегай
+1 SEX M
+1 BIRT
+2 DATE 1932
+1 FAMC @F0015@
+2 PEDI birth
+1 FAMS @F0017@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:47:56
+0 @112211@ INDI
+1 NAME Татьяна Александровна /Сегай/
+2 TYPE birth
+2 GIVN Татьяна Александровна
+2 SURN Сегай
+1 SEX F
+1 BIRT
+2 DATE 1965
+1 FAMC @F0017@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:48:13
+0 @11221супр@ INDI
+1 NAME Раиса Васильевна /Сегай/
+2 TYPE birth
+2 GIVN Раиса Васильевна
+2 SURN Сегай
+1 SEX F
+1 BIRT
+2 DATE 1933
+1 FAMS @F0017@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @11222@ INDI
+1 NAME Анна Петровна /Арбатская/
+2 TYPE birth
+2 GIVN Анна Петровна
+2 SURN Арбатская
+1 SEX F
+1 BIRT
+2 DATE 1945
+1 FAMC @F0016@
+2 PEDI birth
+1 FAMS @F0018@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:48:04
+0 @112221@ INDI
+1 NAME Ирина Евгеньевна /Постникова/
+2 TYPE birth
+2 GIVN Ирина Евгеньевна
+2 SURN Постникова
+1 SEX F
+1 BIRT
+2 DATE 1969
+1 FAMC @F0018@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:48:19
+0 @11222супр@ INDI
+1 NAME Евгений Васильевич /Постников/
+2 TYPE birth
+2 GIVN Евгений Васильевич
+2 SURN Постников
+1 SEX M
+1 FAMS @F0018@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @1122супр1@ INDI
+1 NAME Александр Ал. /Сегай/
+2 TYPE birth
+2 GIVN Александр Ал.
+2 SURN Сегай
+1 SEX M
+1 BIRT
+2 DATE 1908
+1 FAMS @F0015@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 07:49:17
+0 @1122супр2@ INDI
+1 NAME Пётр Евгеньевич /Арбатский/
+2 TYPE birth
+2 GIVN Пётр Евгеньевич
+2 SURN Арбатский
+1 SEX M
+1 BIRT
+2 DATE 1909
+1 FAMS @F0016@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @112супр@ INDI
+1 NAME Николай Иванович /Муравьёв/
+2 TYPE birth
+2 GIVN Николай Иванович
+2 SURN Муравьёв
+1 SEX M
+1 BIRT
+2 DATE 1878
+1 DEAT
+2 DATE 1919
+1 FAMS @F0012@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @113@ INDI
+1 NAME Сергей Петрович /Виноградов/
+2 TYPE birth
+2 GIVN Сергей Петрович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1877
+1 DEAT
+2 DATE 1926
+1 FAMC @F0003@
+2 PEDI birth
+1 FAMS @F0019@
+1 FAMS @F0079@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:44:03
+0 @1131@ INDI
+1 NAME Анна Сергеевна /Виноградова/
+2 TYPE birth
+2 GIVN Анна Сергеевна
+2 SURN Виноградова
+2 NICK Нюра
+1 SEX F
+1 BIRT
+2 DATE 1900
+1 DEAT
+2 DATE 1986
+1 FAMC @F0019@
+2 PEDI birth
+1 FAMS @F0020@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:48:27
+0 @1131супр@ INDI
+1 NAME Иван Николаевич /Горбунов/
+2 TYPE birth
+2 GIVN Иван Николаевич
+2 SURN Горбунов
+1 SEX M
+1 BIRT
+2 DATE 1878
+1 DEAT
+2 DATE 1968
+1 FAMS @F0020@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @1132@ INDI
+1 NAME Татьяна Сергеевна /Виноградова/
+2 TYPE birth
+2 GIVN Татьяна Сергеевна
+2 SURN Виноградова
+1 SEX F
+1 BIRT
+2 DATE 1902
+1 DEAT
+2 DATE 1985
+1 FAMC @F0019@
+2 PEDI birth
+1 FAMS @F0021@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:48:27
+0 @1132супр@ INDI
+1 NAME Александр Яковлевич /Зезин/
+2 TYPE birth
+2 GIVN Александр Яковлевич
+2 SURN Зезин
+1 SEX M
+1 BIRT
+2 DATE 19--
+1 DEAT
+2 DATE 1970
+1 FAMS @F0021@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @1133@ INDI
+1 NAME Юрий Сергеевич /Виноградов/
+2 TYPE birth
+2 GIVN Юрий Сергеевич
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1905
+1 FAMC @F0019@
+2 PEDI birth
+1 FAMS @F0022@
+1 FAMS @F0076@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:48:27
+0 @11331@ INDI
+1 NAME Татьяна Юрьевна /Виноградова/
+2 TYPE birth
+2 GIVN Татьяна Юрьевна
+2 SURN Виноградова
+1 SEX F
+1 BIRT
+2 DATE 1935
+1 FAMC @F0022@
+2 PEDI birth
+1 FAMS @F0023@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:48:50
+0 @113311@ INDI
+1 NAME Сергей Евгеньевич /Тюрин/
+2 TYPE birth
+2 GIVN Сергей Евгеньевич
+2 SURN Тюрин
+1 SEX M
+1 BIRT
+2 DATE 1959
+1 FAMC @F0023@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:48:56
+0 @113312@ INDI
+1 NAME Павел Евгеньевич /Тюрин/
+2 TYPE birth
+2 GIVN Павел Евгеньевич
+2 SURN Тюрин
+1 SEX M
+1 BIRT
+2 DATE 1971
+1 FAMC @F0023@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:48:56
+0 @11331супр@ INDI
+1 NAME Евгений Павлович /Тюрин/
+2 TYPE birth
+2 GIVN Евгений Павлович
+2 SURN Тюрин
+1 SEX M
+1 FAMS @F0023@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @11332@ INDI
+1 NAME Сергей Юрьевич /Виноградов/
+2 TYPE birth
+2 GIVN Сергей Юрьевич
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1947
+1 FAMC @F0022@
+2 PEDI birth
+1 FAMC @F0076@
+2 PEDI birth
+1 FAMS @F0025@
+1 FAMS @F0026@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:59:04
+0 @113321@ INDI
+1 NAME Михаил Сергеевич /Виноградов/
+2 TYPE birth
+2 GIVN Михаил Сергеевич
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1972
+1 FAMC @F0025@
+2 PEDI birth
+1 FAMS @F0077@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:49:05
+0 @113321супр@ INDI
+1 NAME Нина Генадиевна //
+2 TYPE birth
+2 GIVN Нина Генадиевна
+1 SEX F
+1 BIRT
+2 DATE 1931
+1 FAMS @F0077@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 08:46:17
+0 @113322@ INDI
+1 NAME Юрий Сергеевич /Виноградов/
+2 TYPE birth
+2 GIVN Юрий Сергеевич
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1974
+1 FAMC @F0026@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:49:14
+0 @11332супр@ INDI
+1 NAME Татьяна Ивановна /Машн./
+2 TYPE birth
+2 GIVN Татьяна Ивановна
+2 SURN Машн.
+1 SEX F
+1 BIRT
+2 DATE 1947
+1 FAMS @F0025@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 08:32:31
+0 @11332супр2@ INDI
+1 NAME Нина Геннадиевна /Виноградова/
+2 TYPE birth
+2 GIVN Нина Геннадиевна
+2 SURN Виноградова
+1 SEX F
+1 BIRT
+2 DATE 1951
+1 FAMS @F0026@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @1133супр@ INDI
+1 NAME Наталья Владимировна //
+2 TYPE birth
+2 GIVN Наталья Владимировна
+1 SEX F
+1 BIRT
+2 DATE 1910
+1 FAMS @F0022@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 08:35:49
+0 @1133супр2@ INDI
+1 NAME Татьяна Алексеевна //
+2 TYPE birth
+2 GIVN Татьяна Алексеевна
+1 SEX F
+1 BIRT
+2 DATE 1914
+1 FAMS @F0076@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 08:28:14
+0 @1134@ INDI
+1 NAME Ольга Сергеевна /Виноградова/
+2 TYPE birth
+2 GIVN Ольга Сергеевна
+2 SURN Виноградова
+2 NICK Люся
+1 SEX F
+1 BIRT
+2 DATE 1908
+1 FAMC @F0019@
+2 PEDI birth
+1 FAMS @F0027@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:48:27
+0 @11341@ INDI
+1 NAME Ирина Сергеевна /Емельянова/
+2 TYPE birth
+2 GIVN Ирина Сергеевна
+2 SURN Емельянова
+1 SEX F
+1 BIRT
+2 DATE 1936
+1 FAMC @F0027@
+2 PEDI birth
+1 FAMS @F0028@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:49:24
+0 @113411@ INDI
+1 NAME Ольга Леонидовна /Кирюхина/
+2 TYPE birth
+2 GIVN Ольга Леонидовна
+2 SURN Кирюхина
+1 SEX F
+1 BIRT
+2 DATE 1962
+1 FAMC @F0028@
+2 PEDI birth
+1 FAMS @F0080@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:49:43
+0 @1134111@ INDI
+1 NAME Анна /Кирюхина/
+2 TYPE birth
+2 GIVN Анна
+2 SURN Кирюхина
+1 SEX F
+1 BIRT
+2 DATE 1985
+1 FAMC @F0080@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:59:31
+0 @113412@ INDI
+1 NAME Дмитрий Леонидович /Кирюхин/
+2 TYPE birth
+2 GIVN Дмитрий Леонидович
+2 SURN Кирюхин
+1 SEX M
+1 BIRT
+2 DATE 1973
+1 FAMC @F0028@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:49:43
+0 @11341супр@ INDI
+1 NAME Леонид Григорьевич /Кирюхин/
+2 TYPE birth
+2 GIVN Леонид Григорьевич
+2 SURN Кирюхин
+1 SEX M
+1 BIRT
+2 DATE 1936
+1 FAMS @F0028@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @1134супр@ INDI
+1 NAME Сергей Владимирович /Емельянов/
+2 TYPE birth
+2 GIVN Сергей Владимирович
+2 SURN Емельянов
+1 SEX M
+1 FAMS @F0027@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @1135@ INDI
+1 NAME Сергей Сергеевич /Виноградов/
+2 TYPE birth
+2 GIVN Сергей Сергеевич
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1906
+1 DEAT
+2 DATE 1990
+1 FAMC @F0079@
+2 PEDI birth
+1 FAMS @F0029@
+1 FAMS @F0030@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:59:22
+0 @11351@ INDI
+1 NAME Владимир Сергеевич /Виноградов/
+2 TYPE birth
+2 GIVN Владимир Сергеевич
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1932
+1 FAMC @F0029@
+2 PEDI birth
+1 FAMS @F0078@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:52:05
+0 @113511@ INDI
+1 NAME Ирина Владимировна /Виноградова/
+2 TYPE birth
+2 GIVN Ирина Владимировна
+2 SURN Виноградова
+1 SEX F
+1 BIRT
+2 DATE 1966
+1 FAMC @F0078@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:59:15
+0 @1135супр1@ INDI
+1 NAME Лидия /Никольская/
+2 TYPE birth
+2 GIVN Лидия
+2 SURN Никольская
+1 SEX F
+1 BIRT
+2 DATE 1908
+1 FAMS @F0029@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @1135супр2@ INDI
+1 NAME Валентина Михайловна //
+2 TYPE birth
+2 GIVN Валентина Михайловна
+1 SEX F
+1 BIRT
+2 DATE 1902
+1 FAMS @F0030@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 08:52:35
+0 @1136@ INDI
+1 NAME Екатерина Сергеевна /Виноградова/
+2 TYPE birth
+2 GIVN Екатерина Сергеевна
+2 SURN Виноградова
+1 SEX F
+1 BIRT
+2 DATE 1907
+1 DEAT
+2 DATE 1942
+1 FAMC @F0079@
+2 PEDI birth
+1 FAMS @F0031@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:59:22
+0 @11361@ INDI
+1 NAME Юрий Яковлевич /Голубев/
+2 TYPE birth
+2 GIVN Юрий Яковлевич
+2 SURN Голубев
+1 SEX M
+1 BIRT
+2 DATE 1932
+1 FAMC @F0031@
+2 PEDI birth
+1 FAMS @F0081@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:52:36
+0 @113611@ INDI
+1 NAME Екатерина Юрьевна /Голубева/
+2 TYPE birth
+2 GIVN Екатерина Юрьевна
+2 SURN Голубева
+1 SEX F
+1 BIRT
+2 DATE 1976
+1 FAMC @F0081@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:59:38
+0 @1136супр@ INDI
+1 NAME Яков /Голубев/
+2 TYPE birth
+2 GIVN Яков
+2 SURN Голубев
+1 SEX M
+1 BIRT
+2 DATE 1903
+1 DEAT
+2 DATE 1985
+1 FAMS @F0031@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @1137@ INDI
+1 NAME Лиза Сергеевна /Виноградова/
+2 TYPE birth
+2 GIVN Лиза Сергеевна
+2 SURN Виноградова
+1 SEX F
+1 BIRT
+2 DATE 1909
+1 DEAT
+2 DATE 1919
+1 FAMC @F0079@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:59:22
+0 @113супр@ INDI
+1 NAME Анна Андреевна /Кохтева/
+2 TYPE birth
+2 GIVN Анна Андреевна
+2 SURN Кохтева
+2 NICK Ауча
+1 SEX F
+1 BIRT
+2 DATE 1871
+1 DEAT
+2 DATE 1954
+1 FAMS @F0019@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 09:13:00
+0 @113супр2@ INDI
+1 NAME Анна Михайловна //
+2 TYPE birth
+2 GIVN Анна Михайловна
+1 SEX F
+1 FAMS @F0079@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 09:09:48
+0 @114@ INDI
+1 NAME Николай Петрович /Виноградов/
+2 TYPE birth
+2 GIVN Николай Петрович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1878
+1 DEAT
+2 DATE 1922
+1 FAMC @F0003@
+2 PEDI birth
+1 FAMS @F0032@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:44:03
+0 @1141@ INDI
+1 NAME Даниил Николаевич /Виноградов/
+2 TYPE birth
+2 GIVN Даниил Николаевич
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 2 MAY 1907
+1 DEAT
+2 DATE 1995
+1 FAMC @F0032@
+2 PEDI birth
+1 FAMS @F0033@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:52:57
+0 @11411@ INDI
+1 NAME Николай Данилович /Виноградов/
+2 TYPE birth
+2 GIVN Николай Данилович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 16 JUN 1936
+1 DEAT
+2 DATE 26 OCT 2007
+1 FAMC @F0033@
+2 PEDI birth
+1 FAMS @F0034@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:53:12
+0 @114111@ INDI
+1 NAME Ирина Николаевна /Виноградова/
+2 TYPE birth
+2 GIVN Ирина Николаевна
+2 SURN Виноградова
+1 SEX F
+1 BIRT
+2 DATE 26 JUL 1963
+1 FAMC @F0034@
+2 PEDI birth
+1 FAMS @F0083@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:53:19
+0 @114111супр@ INDI
+1 NAME Виталий Николаевич /Ефимов/
+2 TYPE birth
+2 GIVN Виталий Николаевич
+2 SURN Ефимов
+1 SEX M
+1 BIRT
+2 DATE 11 APR 1947
+1 FAMS @F0083@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 18:20:41
+0 @114112@ INDI
+1 NAME Лидия Николаевна /Виноградова/
+2 TYPE birth
+2 GIVN Лидия Николаевна
+2 SURN Виноградова
+1 SEX F
+1 BIRT
+2 DATE 27 JUL 1967
+1 FAMC @F0034@
+2 PEDI birth
+1 FAMS @F0037@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:53:19
+0 @114112супр@ INDI
+1 NAME Владимир Алексеевич /Казимиров/
+2 TYPE birth
+2 GIVN Владимир Алексеевич
+2 SURN Казимиров
+1 SEX M
+1 BIRT
+2 DATE 14 NOV 1966
+1 FAMS @F0037@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 18:23:43
+0 @11411супр1@ INDI
+1 NAME Елена Леонидовна /Рябова/
+2 TYPE birth
+2 GIVN Елена Леонидовна
+2 SURN Рябова
+1 SEX F
+1 BIRT
+2 DATE 30 AUG 1935
+1 DEAT
+2 DATE 13 JUN 2019
+1 FAMS @F0034@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 12:34:35
+0 @11412@ INDI
+1 NAME Лев Данилович /Виноградов/
+2 TYPE birth
+2 GIVN Лев Данилович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 7 MAR 1938
+1 DEAT
+2 DATE 21 JUN 2007
+1 FAMC @F0033@
+2 PEDI birth
+1 FAMS @F0082@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:53:12
+0 @114121@ INDI
+1 NAME Ян Львович /Виноградов/
+2 TYPE birth
+2 GIVN Ян Львович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 21 FEB 1966
+1 FAMC @F0082@
+2 PEDI birth
+1 FAMS @F0084@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:59:43
+0 @1141211@ INDI
+1 NAME Ксения Яновна /Виноградова/
+2 TYPE birth
+2 GIVN Ксения Яновна
+2 SURN Виноградова
+1 SEX F
+1 BIRT
+2 DATE 18 DEC 1990
+1 FAMC @F0084@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 07:00:02
+0 @1141212@ INDI
+1 NAME Райн Янович /Виноградов/
+2 TYPE birth
+2 GIVN Райн Янович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 22 NOV 2004
+1 FAMC @F0084@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 07:00:02
+0 @114121супр@ INDI
+1 NAME Елена Николаевна /Антонова/
+2 TYPE birth
+2 GIVN Елена Николаевна
+2 SURN Антонова
+1 SEX F
+1 BIRT
+2 DATE 25 SEP 1969
+1 FAMS @F0084@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 18:58:09
+0 @11412супр@ INDI
+1 NAME Ольга Владимировна /Долгачева/
+2 TYPE birth
+2 GIVN Ольга Владимировна
+2 SURN Долгачева
+1 SEX F
+1 BIRT
+2 DATE 30 OCT 1940
+1 FAMS @F0082@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 12:43:20
+0 @11413@ INDI
+1 NAME Владимир Данилович /Виноградов/
+2 TYPE birth
+2 GIVN Владимир Данилович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 19 MAR 1941
+1 DEAT
+2 DATE 19 JAN 2017
+1 FAMC @F0033@
+2 PEDI birth
+1 FAMS @F0038@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:53:12
+0 @11413супр@ INDI
+1 NAME Полина /Неповинных/
+2 TYPE birth
+2 GIVN Полина
+2 SURN Неповинных
+1 SEX F
+1 FAMS @F0038@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 12:46:05
+0 @11414@ INDI
+1 NAME Даниил Даниилович /Виноградов/
+2 TYPE birth
+2 GIVN Даниил Даниилович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 8 SEP 1946
+1 FAMC @F0033@
+2 PEDI birth
+1 FAMS @F0039@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:53:12
+0 @114141@ INDI
+1 NAME Максим Даниилович /Виноградов/
+2 TYPE birth
+2 GIVN Максим Даниилович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 16 AUG 1971
+1 FAMC @F0039@
+2 PEDI birth
+1 FAMS @F0000@
+1 ASSO @114141супр@
+2 RELA Супруга
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:53:52
+0 @1141411@ INDI
+1 NAME Кирилл Максимович /Виноградов/
+2 TYPE birth
+2 GIVN Кирилл Максимович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 25 MAY 2010
+1 FAMC @F0000@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:43:31
+0 @1141412@ INDI
+1 NAME Софья Максимовна /Виноградова/
+2 TYPE birth
+2 GIVN Софья Максимовна
+2 SURN Виноградова
+1 SEX F
+1 BIRT
+2 DATE 21 OCT 2018
+1 FAMC @F0000@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:43:31
+0 @114141супр@ INDI
+1 NAME Ольга Владимировна /Виноградова/
+2 TYPE married
+2 GIVN Ольга Владимировна
+2 SURN Виноградова
+1 NAME Ольга Владимировна /Никитина/
+2 TYPE birth
+2 GIVN Ольга Владимировна
+2 SPFX Никитина
+1 SEX F
+1 BIRT
+2 DATE 7 DEC 1978
+1 FAMS @F0000@
+1 ASSO @114141@
+2 RELA Супруг
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 18:39:43
+0 @114142@ INDI
+1 NAME Антон Даниилович /Виноградов/
+2 TYPE birth
+2 GIVN Антон Даниилович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 11 APR 1977
+1 FAMC @F0039@
+2 PEDI birth
+1 FAMS @F0040@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:53:52
+0 @1141421@ INDI
+1 NAME Елизавета Антоновна /Виноградова/
+2 TYPE birth
+2 GIVN Елизавета Антоновна
+2 SURN Виноградова
+1 SEX F
+1 BIRT
+2 DATE 19 JUN 2003
+1 FAMC @F0040@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:53:58
+0 @1141422@ INDI
+1 NAME Даниил Антонович /Виноградов/
+2 TYPE birth
+2 GIVN Даниил Антонович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 18 APR 2007
+1 FAMC @F0040@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:53:58
+0 @1141423@ INDI
+1 NAME Алиса Антоновна /Виноградова/
+2 TYPE birth
+2 GIVN Алиса Антоновна
+2 SURN Виноградова
+1 SEX F
+1 BIRT
+2 DATE 20 MAR 2012
+1 FAMC @F0040@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:53:58
+0 @114142супр@ INDI
+1 NAME Нина Викторовна /Понсарян/
+2 TYPE birth
+2 GIVN Нина Викторовна
+2 SURN Понсарян
+1 SEX F
+1 BIRT
+2 DATE 14 SEP 1976
+1 FAMS @F0040@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @11414супр@ INDI
+1 NAME Нина Григорьевна /Гнесина/
+2 TYPE birth
+2 GIVN Нина Григорьевна
+2 SURN Гнесина
+1 SEX F
+1 BIRT
+2 DATE 29 NOV 1946
+1 FAMS @F0039@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @1141супр@ INDI
+1 NAME Елена Львовна /Дрейер/
+2 TYPE birth
+2 GIVN Елена Львовна
+2 SURN Дрейер
+1 SEX F
+1 BIRT
+2 DATE 6 JUL 1908
+1 DEAT
+2 DATE 1989
+1 FAMS @F0033@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 12:07:40
+0 @1142@ INDI
+1 NAME Нина Николаевна /Виноградова/
+2 TYPE birth
+2 GIVN Нина Николаевна
+2 SURN Виноградова
+1 SEX F
+1 BIRT
+2 DATE 15 SEP 1914
+1 DEAT
+2 DATE 1991
+1 FAMC @F0032@
+2 PEDI birth
+1 FAMS @F0041@
+1 FAMS @F0042@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:52:57
+0 @11421@ INDI
+1 NAME Галина Григорьевна /Гуревич/
+2 TYPE birth
+2 GIVN Галина Григорьевна
+2 SURN Гуревич
+1 SEX F
+1 BIRT
+2 DATE 1 JUN 1940
+1 DEAT
+2 DATE 21 JUL 2023
+1 FAMC @F0041@
+2 PEDI birth
+1 FAMS @F0043@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:54:04
+0 @11421121@ INDI
+1 NAME Юлия Владимировна /Виноградова/
+2 TYPE birth
+2 GIVN Юлия Владимировна
+2 SURN Виноградова
+1 SEX F
+1 BIRT
+2 DATE 9 MAY 1997
+1 FAMC @F0037@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:53:26
+0 @11421супр@ INDI
+1 NAME Евгений /Деулин/
+2 TYPE birth
+2 GIVN Евгений
+2 SURN Деулин
+1 SEX M
+1 FAMS @F0043@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @11422@ INDI
+1 NAME Наталья Григорьевна /Мордвинцева/
+2 TYPE birth
+2 GIVN Наталья Григорьевна
+2 SURN Мордвинцева
+2 _RUFNAME Гуревич
+1 SEX F
+1 BIRT
+2 DATE 20 SEP 1942
+1 FAMC @F0041@
+2 PEDI birth
+1 FAMS @F0044@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:54:04
+0 @114221@ INDI
+1 NAME Кирилл Александрович /Мордвинцев/
+2 TYPE birth
+2 GIVN Кирилл Александрович
+2 SURN Мордвинцев
+1 SEX M
+1 BIRT
+2 DATE 13 JAN 1967
+1 FAMC @F0044@
+2 PEDI birth
+1 FAMS @F0045@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:54:33
+0 @1142211@ INDI
+1 NAME Георгий Кириллович /Мордвинцев/
+2 TYPE birth
+2 GIVN Георгий Кириллович
+2 SURN Мордвинцев
+1 SEX M
+1 BIRT
+2 DATE 3 JAN 2007
+1 FAMC @F0045@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:54:41
+0 @114221супр@ INDI
+1 NAME Светлана Егоровна /Амелина/
+2 TYPE birth
+2 GIVN Светлана Егоровна
+2 SURN Амелина
+1 SEX F
+1 BIRT
+2 DATE 12 NOV 1966
+1 FAMS @F0045@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @114222@ INDI
+1 NAME Александра Александровна /Соколова/
+2 TYPE married
+2 GIVN Александра Александровна
+2 SURN Соколова
+1 NAME Александра Александровна /Мордвинцева/
+2 TYPE birth
+2 GIVN Александра Александровна
+2 SPFX Мордвинцева
+1 SEX F
+1 BIRT
+2 DATE 13 SEP 1971
+1 FAMC @F0044@
+2 PEDI birth
+1 FAMS @F0046@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:54:33
+0 @1142221@ INDI
+1 NAME Татьяна Артёмовна /Соколова/
+2 TYPE birth
+2 GIVN Татьяна Артёмовна
+2 SURN Соколова
+1 SEX F
+1 BIRT
+2 DATE 10 NOV 1990
+1 FAMC @F0046@
+2 PEDI birth
+1 FAMS @F0085@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:54:48
+0 @11422211@ INDI
+1 NAME Тимофей Дмитриевич /Соколов/
+2 TYPE birth
+2 GIVN Тимофей Дмитриевич
+2 SURN Соколов
+1 SEX M
+1 BIRT
+2 DATE 5 JUN 2022
+1 FAMC @F0085@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 07:00:08
+0 @1142221супр@ INDI
+1 NAME Дмитрий Владимирович /Кисляков/
+2 TYPE birth
+2 GIVN Дмитрий Владимирович
+2 SURN Кисляков
+1 SEX M
+1 BIRT
+2 DATE 26 MAY 1986
+1 FAMS @F0085@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 19:13:13
+0 @1142222@ INDI
+1 NAME Анна Артёмовна /Соколова/
+2 TYPE birth
+2 GIVN Анна Артёмовна
+2 SURN Соколова
+1 SEX F
+1 BIRT
+2 DATE 13 SEP 1992
+1 FAMC @F0046@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:54:48
+0 @114222супр@ INDI
+1 NAME Артём Маркович /Соколов/
+2 TYPE birth
+2 GIVN Артём Маркович
+2 SURN Соколов
+1 SEX M
+1 BIRT
+2 DATE 23 JAN 1963
+1 FAMS @F0046@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @11422супр@ INDI
+1 NAME Александр Георгиевич /Мордвинцев/
+2 TYPE birth
+2 GIVN Александр Георгиевич
+2 SURN Мордвинцев
+1 SEX M
+1 BIRT
+2 DATE 15 AUG 1943
+1 FAMS @F0044@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @11423@ INDI
+1 NAME Михаил Викторович /Виноградов/
+2 TYPE birth
+2 GIVN Михаил Викторович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 30 MAR 1949
+1 FAMC @F0042@
+2 PEDI birth
+1 FAMS @F0047@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:54:10
+0 @114231@ INDI
+1 NAME Михаил Михайлович /Виноградов/
+2 TYPE birth
+2 GIVN Михаил Михайлович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 8 OCT 1973
+1 FAMC @F0047@
+2 PEDI birth
+1 FAMS @F0048@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:54:55
+0 @1142311@ INDI
+1 NAME Андрей Михайлович /Виноградов/
+2 TYPE birth
+2 GIVN Андрей Михайлович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 24 AUG 2004
+1 FAMC @F0048@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:55:04
+0 @1142312@ INDI
+1 NAME Григорий Михайлович /Виноградов/
+2 TYPE birth
+2 GIVN Григорий Михайлович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 10 JAN 2008
+1 FAMC @F0048@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:55:04
+0 @114231супр@ INDI
+1 NAME Ирина Юрьевна /Богатырева/
+2 TYPE birth
+2 GIVN Ирина Юрьевна
+2 SURN Богатырева
+1 SEX F
+1 BIRT
+2 DATE 29 JUN 1972
+1 FAMS @F0048@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @114232@ INDI
+1 NAME Екатерина Михайловна /Тихонова/
+2 TYPE married
+2 GIVN Екатерина Михайловна
+2 SURN Тихонова
+1 NAME Екатерина михайловна /Виноградова/
+2 TYPE birth
+2 GIVN Екатерина михайловна
+2 SPFX Виноградова
+1 SEX F
+1 BIRT
+2 DATE 7 AUG 1977
+1 FAMC @F0047@
+2 PEDI birth
+1 FAMS @F0049@
+1 FAMS @F0050@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:54:55
+0 @1142321@ INDI
+1 NAME Николай Петрович /Тихонов/
+2 TYPE birth
+2 GIVN Николай Петрович
+2 SURN Тихонов
+1 SEX M
+1 BIRT
+2 DATE 29 JAN 2004
+1 FAMC @F0049@
+2 PEDI birth
+1 FAMC @F0050@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:55:21
+0 @1142322@ INDI
+1 NAME Нина Петровна /Тихонова/
+2 TYPE birth
+2 GIVN Нина Петровна
+2 SURN Тихонова
+1 SEX F
+1 BIRT
+2 DATE 6 JUL 2008
+1 FAMC @F0049@
+2 PEDI birth
+1 FAMC @F0050@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:55:21
+0 @114232супр@ INDI
+1 NAME Пётр Игоревич /Тихонов/
+2 TYPE birth
+2 GIVN Пётр Игоревич
+2 SURN Тихонов
+1 SEX M
+1 BIRT
+2 DATE 31 OCT 1975
+1 FAMS @F0050@
+1 FAMS @F0049@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 20:04:57
+0 @11423супр@ INDI
+1 NAME Юлия Николаевна /Решетникова/
+2 TYPE birth
+2 GIVN Юлия Николаевна
+2 SURN Решетникова
+1 SEX F
+1 BIRT
+2 DATE 16 NOV 1939
+1 DEAT
+2 DATE 4 MAR 2025
+1 FAMS @F0047@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 12:58:57
+0 @1142супр1@ INDI
+1 NAME Григорий Ильич /Гуревич/
+2 TYPE birth
+2 GIVN Григорий Ильич
+2 SURN Гуревич
+1 SEX M
+1 BIRT
+2 DATE 23 FEB 1907
+1 DEAT
+2 DATE 1968
+1 FAMS @F0041@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @1142супр2@ INDI
+1 NAME Виктор Николаевич /Слудский/
+2 TYPE birth
+2 GIVN Виктор Николаевич
+2 SURN Слудский
+1 SEX M
+1 BIRT
+2 DATE 4 AUG 1914
+1 DEAT
+2 DATE 1989
+1 FAMS @F0042@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @1143@ INDI
+1 NAME Наталья Николаевна /Виноградова/
+2 TYPE birth
+2 GIVN Наталья Николаевна
+2 SURN Виноградова
+1 SEX F
+1 BIRT
+2 DATE 13 JAN 1922
+1 DEAT
+2 DATE 2002
+1 FAMC @F0032@
+2 PEDI birth
+1 FAMS @F0051@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:52:57
+0 @11431@ INDI
+1 NAME Татьяна Константиновна /Владимирская/
+2 TYPE birth
+2 GIVN Татьяна Константиновна
+2 SURN Владимирская
+1 SEX F
+1 BIRT
+2 DATE 30 NOV 1948
+1 FAMC @F0051@
+2 PEDI birth
+1 FAMS @F0052@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:55:26
+0 @114311@ INDI
+1 NAME Наталья Игоревна /Пономарёва/
+2 TYPE birth
+2 GIVN Наталья Игоревна
+2 SURN Пономарёва
+1 SEX F
+1 BIRT
+2 DATE 30 NOV 1974
+1 FAMC @F0052@
+2 PEDI birth
+1 FAMS @F0053@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:55:33
+0 @1143111@ INDI
+1 NAME Никита Олегович /Пономарев/
+2 TYPE birth
+2 GIVN Никита Олегович
+2 SURN Пономарев
+1 SEX M
+1 BIRT
+2 DATE 11 MAY 1995
+1 FAMC @F0053@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:55:39
+0 @1143112@ INDI
+1 NAME Николай Олегович /Пономарев/
+2 TYPE birth
+2 GIVN Николай Олегович
+2 SURN Пономарев
+1 SEX M
+1 BIRT
+2 DATE 4 FEB 2004
+1 FAMC @F0053@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:55:39
+0 @114311супр@ INDI
+1 NAME Олег Владимирович /Пономарев/
+2 TYPE birth
+2 GIVN Олег Владимирович
+2 SURN Пономарев
+1 SEX M
+1 BIRT
+2 DATE 1966
+1 FAMS @F0053@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 20:22:11
+0 @114312@ INDI
+1 NAME Ирина Игоревна /Пономарёва/
+2 TYPE birth
+2 GIVN Ирина Игоревна
+2 SURN Пономарёва
+1 SEX F
+1 BIRT
+2 DATE 1 AUG 1979
+1 FAMC @F0052@
+2 PEDI birth
+1 FAMS @F0054@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:55:33
+0 @1143121@ INDI
+1 NAME Федор Владимирович /Иванов/
+2 TYPE birth
+2 GIVN Федор Владимирович
+2 SURN Иванов
+1 SEX M
+1 BIRT
+2 DATE 10 OCT 2009
+1 FAMC @F0054@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:09
+0 @1143122@ INDI
+1 NAME Анна Владимировна /Иванова/
+2 TYPE birth
+2 GIVN Анна Владимировна
+2 SURN Иванова
+1 SEX F
+1 BIRT
+2 DATE 11 JAN 2013
+1 FAMC @F0054@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:09
+0 @114312супр@ INDI
+1 NAME Владимир Владимирович /Иванов/
+2 TYPE birth
+2 GIVN Владимир Владимирович
+2 SURN Иванов
+1 SEX M
+1 BIRT
+2 DATE 15 OCT 1977
+1 FAMS @F0054@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @11431супр@ INDI
+1 NAME Игорь Олегович /Пономарёв/
+2 TYPE birth
+2 GIVN Игорь Олегович
+2 SURN Пономарёв
+1 SEX M
+1 BIRT
+2 DATE 5 JUN 1948
+1 FAMS @F0052@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @11432@ INDI
+1 NAME Елена Константиновна /Владимирская/
+2 TYPE birth
+2 GIVN Елена Константиновна
+2 SURN Владимирская
+1 SEX F
+1 BIRT
+2 DATE 30 NOV 1948
+1 FAMC @F0051@
+2 PEDI birth
+1 FAMS @F0055@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:55:26
+0 @114321@ INDI
+1 NAME Мария Владимировна /Добрецова/
+2 TYPE birth
+2 GIVN Мария Владимировна
+2 SURN Добрецова
+1 SEX F
+1 BIRT
+2 DATE 6 JUN 1973
+1 FAMC @F0055@
+2 PEDI birth
+1 FAMS @F0056@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:15
+0 @1143211@ INDI
+1 NAME Сергей Александрович /Князев/
+2 TYPE birth
+2 GIVN Сергей Александрович
+2 SURN Князев
+1 SEX M
+1 BIRT
+2 DATE 8 SEP 1997
+1 FAMC @F0056@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:23
+0 @1143212@ INDI
+1 NAME Варвара Александровна /Князева/
+2 TYPE birth
+2 GIVN Варвара Александровна
+2 SURN Князева
+1 SEX F
+1 BIRT
+2 DATE 17 MAY 2004
+1 FAMC @F0056@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:23
+0 @114321супр@ INDI
+1 NAME Александр Борисович /Князев/
+2 TYPE birth
+2 GIVN Александр Борисович
+2 SURN Князев
+1 SEX M
+1 BIRT
+2 DATE 1973
+1 FAMS @F0056@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @114322@ INDI
+1 NAME Александра Владимировна /Добрецова/
+2 TYPE birth
+2 GIVN Александра Владимировна
+2 SURN Добрецова
+1 SEX F
+1 BIRT
+2 DATE 15 MAY 1989
+1 FAMC @F0055@
+2 PEDI birth
+1 FAMS @F0057@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:15
+0 @1143221@ INDI
+1 NAME Зоя Александровна /Шеметилло/
+2 TYPE birth
+2 GIVN Зоя Александровна
+2 SURN Шеметилло
+1 SEX F
+1 BIRT
+2 DATE 25 SEP 2017
+1 FAMC @F0057@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:28
+0 @1143222@ INDI
+1 NAME Лея Александровна /Шеметилло/
+2 TYPE birth
+2 GIVN Лея Александровна
+2 SURN Шеметилло
+1 SEX F
+1 BIRT
+2 DATE 29 JAN 2021
+1 FAMC @F0057@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:28
+0 @114322супр2@ INDI
+1 NAME Александр Павлович /Шеметилло/
+2 TYPE birth
+2 GIVN Александр Павлович
+2 SURN Шеметилло
+1 SEX M
+1 BIRT
+2 DATE 15 MAY 1984
+1 FAMS @F0057@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 20:37:53
+0 @11432супр@ INDI
+1 NAME Владимир Сергеевич /Добрецов/
+2 TYPE birth
+2 GIVN Владимир Сергеевич
+2 SURN Добрецов
+1 SEX M
+1 BIRT
+2 DATE 21 NOV 1944
+1 FAMS @F0055@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @1143супр@ INDI
+1 NAME Константин Васильевич /Владимирский/
+2 TYPE birth
+2 GIVN Константин Васильевич
+2 SURN Владимирский
+1 SEX M
+1 BIRT
+2 DATE 13 APR 1913
+1 DEAT
+2 DATE 2010
+1 FAMS @F0051@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @114супр@ INDI
+1 NAME Анна Ивановна /Муравьёва/
+2 TYPE birth
+2 GIVN Анна Ивановна
+2 SURN Муравьёва
+1 SEX F
+1 BIRT
+2 DATE 1881
+1 DEAT
+2 DATE 1964
+1 FAMS @F0032@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @115@ INDI
+1 NAME Пётр Петрович /Виноградов/
+2 TYPE birth
+2 GIVN Пётр Петрович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1878
+1 DEAT
+2 DATE 1945
+1 FAMC @F0003@
+2 PEDI birth
+1 FAMS @F0058@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:44:03
+0 @1151@ INDI
+1 NAME Даниил Петрович /Виноградов/
+2 TYPE birth
+2 GIVN Даниил Петрович
+2 SURN Виноградов
+1 SEX M
+1 BIRT
+2 DATE 1911
+1 DEAT
+2 DATE 193*
+1 FAMC @F0058@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:34
+0 @1152@ INDI
+1 NAME Вероника Петровна /Виноградова/
+2 TYPE birth
+2 GIVN Вероника Петровна
+2 SURN Виноградова
+1 SEX F
+1 BIRT
+2 DATE 1914
+1 DEAT
+2 DATE 1997
+1 FAMC @F0058@
+2 PEDI birth
+1 FAMS @F0059@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:34
+0 @11521@ INDI
+1 NAME Татьяна Петровна /Горбушина/
+2 TYPE birth
+2 GIVN Татьяна Петровна
+2 SURN Горбушина
+1 SEX F
+1 BIRT
+2 DATE 1940
+1 FAMC @F0059@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:40
+0 @1152супр@ INDI
+1 NAME Пётр /Горбушин/
+2 TYPE birth
+2 GIVN Пётр
+2 SURN Горбушин
+1 SEX M
+1 BIRT
+2 DATE 1916
+1 FAMS @F0059@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @115супр@ INDI
+1 NAME Алевтина Николаевна /Белоус/
+2 TYPE birth
+2 GIVN Алевтина Николаевна
+2 SURN Белоус
+2 NICK Аля
+1 SEX F
+1 BIRT
+2 DATE 1888
+1 DEAT
+2 DATE 1949
+1 FAMS @F0058@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 12:02:50
+0 @11супр@ INDI
+1 NAME Анна Ивановна /Масленникова/
+2 TYPE birth
+2 GIVN Анна Ивановна
+2 SURN Масленникова
+1 SEX F
+1 BIRT
+2 DATE 1845
+1 DEAT
+2 DATE 1918
+1 FAMS @F0003@
+1 CHAN
+2 DATE 12 SEP 2026
+3 TIME 06:33:24
+0 @12@ INDI
+1 NAME Ольга Андреевна /Виноградова/
+2 TYPE birth
+2 GIVN Ольга Андреевна
+2 SURN Виноградова
+1 SEX F
+1 FAMC @F0066@
+2 PEDI birth
+1 FAMS @F0070@
+1 CHAN
+2 DATE 12 SEP 2026
+3 TIME 07:44:19
+0 @12супр@ INDI
+1 NAME Василий Ефимович /Несмеянов/
+2 TYPE birth
+2 GIVN Василий Ефимович
+2 SURN Несмеянов
+1 SEX M
+1 BIRT
+2 DATE 18**
+1 DEAT
+2 DATE 1918
+1 FAMS @F0070@
+1 CHAN
+2 DATE 12 SEP 2026
+3 TIME 07:44:19
+0 @13@ INDI
+1 NAME Аграфена Андреевна /Виноградова/
+2 TYPE birth
+2 GIVN Аграфена Андреевна
+2 SURN Виноградова
+2 NICK тётя Груня
+1 SEX F
+1 FAMC @F0066@
+2 PEDI birth
+1 FAMS @F0060@
+1 CHAN
+2 DATE 12 SEP 2026
+3 TIME 07:46:41
+0 @13супр@ INDI
+1 NAME Павел /Васильев/
+2 TYPE birth
+2 GIVN Павел
+2 SURN Васильев
+1 SEX M
+1 FAMS @F0060@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @14@ INDI
+1 NAME Алексей Андреевич /Виноградов/
+2 TYPE birth
+2 GIVN Алексей Андреевич
+2 SURN Виноградов
+1 SEX M
+1 FAMC @F0066@
+2 PEDI birth
+1 FAMS @F0061@
+1 CHAN
+2 DATE 12 SEP 2026
+3 TIME 06:58:17
+0 @141@ INDI
+1 NAME Ольга Алексеевна /Виноградова/
+2 TYPE birth
+2 GIVN Ольга Алексеевна
+2 SURN Виноградова
+1 SEX F
+1 FAMC @F0061@
+2 PEDI birth
+1 FAMS @F0062@
+1 NOTE @N0002@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:57:05
+0 @141супр@ INDI
+1 NAME  /Давыдов/
+2 TYPE birth
+2 SURN Давыдов
+1 SEX M
+1 FAMS @F0062@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @142@ INDI
+1 NAME Анна Алексеевна /Виноградова/
+2 TYPE birth
+2 GIVN Анна Алексеевна
+2 SURN Виноградова
+1 SEX F
+1 FAMC @F0061@
+2 PEDI birth
+1 FAMS @F0063@
+1 NOTE @N0003@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:57:05
+0 @142супр@ INDI
+1 NAME  /Кумашенко/
+2 TYPE birth
+2 SURN Кумашенко
+1 SEX M
+1 FAMS @F0063@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @143@ INDI
+1 NAME Алексей Алексеевич /Виноградов/
+2 TYPE birth
+2 GIVN Алексей Алексеевич
+2 SURN Виноградов
+1 SEX M
+1 FAMC @F0061@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:57:05
+0 @15@ INDI
+1 NAME Павел Андреевич /Виноградов/
+2 TYPE birth
+2 GIVN Павел Андреевич
+2 SURN Виноградов
+1 SEX M
+1 FAMC @F0066@
+2 PEDI birth
+1 FAMS @F0064@
+1 CHAN
+2 DATE 12 SEP 2026
+3 TIME 06:58:17
+0 @151@ INDI
+1 NAME Варвара Павловна /Виноградова/
+2 TYPE married
+2 GIVN Варвара Павловна
+2 SURN Виноградова
+2 _RUFNAME Лебедев
+1 SEX F
+1 FAMC @F0064@
+2 PEDI birth
+1 FAMS @F0065@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:57:35
+0 @151супр@ INDI
+1 NAME  /Лебедев/
+2 TYPE birth
+2 SURN Лебедев
+1 SEX M
+1 FAMS @F0065@
+1 CHAN
+2 DATE 5 SEP 2026
+3 TIME 03:17:58
+0 @1супр@ INDI
+1 NAME Ольга Семёновна /Введенская/
+2 TYPE birth
+2 GIVN Ольга Семёновна
+2 SURN Введенская
+1 SEX F
+1 FAMS @F0066@
+1 CHAN
+2 DATE 12 SEP 2026
+3 TIME 06:36:43
+0 @I0002@ INDI
+1 NAME Таисия Александровна /Шеметилло/
+2 TYPE birth
+2 GIVN Таисия Александровна
+2 SURN Шеметилло
+1 SEX F
+1 BIRT
+2 DATE 29 JAN 2021
+1 FAMC @F0057@
+2 PEDI birth
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:28
+0 @F0000@ FAM
+1 HUSB @114141@
+1 WIFE @114141супр@
+1 CHIL @1141411@
+1 CHIL @1141412@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:43:31
+0 @F0001@ FAM
+1 HUSB @00@
+1 CHIL @0@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:43:44
+0 @F0003@ FAM
+1 HUSB @11@
+1 WIFE @11супр@
+1 CHIL @111@
+1 CHIL @112@
+1 CHIL @113@
+1 CHIL @114@
+1 CHIL @115@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:44:03
+0 @F0004@ FAM
+1 HUSB @111@
+1 WIFE @111супр1@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:44:13
+0 @F0005@ FAM
+1 HUSB @111@
+1 WIFE @111супр2@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:44:25
+0 @F0006@ FAM
+1 HUSB @111@
+1 WIFE @111супр3@
+1 CHIL @1116@
+1 CHIL @1117@
+1 CHIL @1118@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:44:35
+0 @F0007@ FAM
+1 HUSB @111@
+1 CHIL @1111@
+1 CHIL @1112@
+1 CHIL @1113@
+1 CHIL @1114@
+1 CHIL @1115@
+1 CHIL @1116@
+1 CHIL @1117@
+1 CHIL @1118@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:44:45
+0 @F0008@ FAM
+1 HUSB @1113@
+1 WIFE @1113супр1@
+1 CHIL @11131@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:46:40
+0 @F0009@ FAM
+1 HUSB @1113@
+1 WIFE @1113супр2@
+1 CHIL @11132@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:46:54
+0 @F0010@ FAM
+1 HUSB @1114@
+1 WIFE @1114супр@
+1 CHIL @11141@
+1 CHIL @11142@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:47:01
+0 @F0011@ FAM
+1 HUSB @11141@
+1 WIFE @11141супр@
+1 CHIL @111411@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:47:14
+0 @F0012@ FAM
+1 HUSB @112супр@
+1 WIFE @112@
+1 CHIL @1121@
+1 CHIL @1122@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:47:27
+0 @F0013@ FAM
+1 HUSB @1121@
+1 WIFE @1121супр@
+1 CHIL @11211@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:47:36
+0 @F0014@ FAM
+1 HUSB @11211супр@
+1 WIFE @11211@
+1 CHIL @112111@
+1 CHIL @112112@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:47:46
+0 @F0015@ FAM
+1 HUSB @1122супр1@
+1 WIFE @1122@
+1 CHIL @11221@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:47:56
+0 @F0016@ FAM
+1 HUSB @1122супр2@
+1 WIFE @1122@
+1 CHIL @11222@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:48:04
+0 @F0017@ FAM
+1 HUSB @11221@
+1 WIFE @11221супр@
+1 CHIL @112211@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:48:13
+0 @F0018@ FAM
+1 HUSB @11222супр@
+1 WIFE @11222@
+1 CHIL @112221@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:48:19
+0 @F0019@ FAM
+1 HUSB @113@
+1 WIFE @113супр@
+1 CHIL @1131@
+1 CHIL @1132@
+1 CHIL @1133@
+1 CHIL @1134@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:48:27
+0 @F0020@ FAM
+1 HUSB @1131супр@
+1 WIFE @1131@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:48:35
+0 @F0021@ FAM
+1 HUSB @1132супр@
+1 WIFE @1132@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:48:42
+0 @F0022@ FAM
+1 HUSB @1133@
+1 WIFE @1133супр@
+1 CHIL @11331@
+1 CHIL @11332@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:48:50
+0 @F0023@ FAM
+1 HUSB @11331супр@
+1 WIFE @11331@
+1 CHIL @113311@
+1 CHIL @113312@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:48:56
+0 @F0025@ FAM
+1 HUSB @11332@
+1 WIFE @11332супр@
+1 CHIL @113321@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:49:05
+0 @F0026@ FAM
+1 HUSB @11332@
+1 WIFE @11332супр2@
+1 CHIL @113322@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:49:14
+0 @F0027@ FAM
+1 HUSB @1134супр@
+1 WIFE @1134@
+1 CHIL @11341@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:49:24
+0 @F0028@ FAM
+1 HUSB @11341супр@
+1 WIFE @11341@
+1 CHIL @113411@
+1 CHIL @113412@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:49:43
+0 @F0029@ FAM
+1 HUSB @1135@
+1 WIFE @1135супр1@
+1 CHIL @11351@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:52:05
+0 @F0030@ FAM
+1 HUSB @1135@
+1 WIFE @1135супр2@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:52:21
+0 @F0031@ FAM
+1 HUSB @1136супр@
+1 WIFE @1136@
+1 CHIL @11361@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:52:36
+0 @F0032@ FAM
+1 HUSB @114@
+1 WIFE @114супр@
+1 CHIL @1141@
+1 CHIL @1142@
+1 CHIL @1143@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:52:57
+0 @F0033@ FAM
+1 HUSB @1141@
+1 WIFE @1141супр@
+1 CHIL @11411@
+1 CHIL @11412@
+1 CHIL @11413@
+1 CHIL @11414@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:53:12
+0 @F0034@ FAM
+1 HUSB @11411@
+1 WIFE @11411супр1@
+1 CHIL @114111@
+1 CHIL @114112@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:53:19
+0 @F0037@ FAM
+1 HUSB @114112супр@
+1 WIFE @114112@
+1 CHIL @11421121@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:53:26
+0 @F0038@ FAM
+1 HUSB @11413@
+1 WIFE @11413супр@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:53:41
+0 @F0039@ FAM
+1 HUSB @11414@
+1 WIFE @11414супр@
+1 CHIL @114141@
+1 CHIL @114142@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:53:52
+0 @F0040@ FAM
+1 HUSB @114142@
+1 WIFE @114142супр@
+1 CHIL @1141421@
+1 CHIL @1141422@
+1 CHIL @1141423@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:53:58
+0 @F0041@ FAM
+1 HUSB @1142супр1@
+1 WIFE @1142@
+1 CHIL @11421@
+1 CHIL @11422@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:54:04
+0 @F0042@ FAM
+1 HUSB @1142супр2@
+1 WIFE @1142@
+1 CHIL @11423@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:54:10
+0 @F0043@ FAM
+1 HUSB @11421супр@
+1 WIFE @11421@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:54:17
+0 @F0044@ FAM
+1 HUSB @11422супр@
+1 WIFE @11422@
+1 CHIL @114221@
+1 CHIL @114222@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:54:33
+0 @F0045@ FAM
+1 HUSB @114221@
+1 WIFE @114221супр@
+1 CHIL @1142211@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:54:41
+0 @F0046@ FAM
+1 HUSB @114222супр@
+1 WIFE @114222@
+1 CHIL @1142221@
+1 CHIL @1142222@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:54:48
+0 @F0047@ FAM
+1 HUSB @11423@
+1 WIFE @11423супр@
+1 CHIL @114231@
+1 CHIL @114232@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:54:55
+0 @F0048@ FAM
+1 HUSB @114231@
+1 WIFE @114231супр@
+1 CHIL @1142311@
+1 CHIL @1142312@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:55:04
+0 @F0049@ FAM
+1 HUSB @114232супр@
+1 WIFE @114232@
+1 CHIL @1142321@
+1 CHIL @1142322@
+1 CHAN
+2 DATE 14 SEP 2026
+3 TIME 20:04:57
+0 @F0050@ FAM
+1 HUSB @114232супр@
+1 WIFE @114232@
+1 CHIL @1142321@
+1 CHIL @1142322@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:55:21
+0 @F0051@ FAM
+1 HUSB @1143супр@
+1 WIFE @1143@
+1 CHIL @11431@
+1 CHIL @11432@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:55:26
+0 @F0052@ FAM
+1 HUSB @11431супр@
+1 WIFE @11431@
+1 CHIL @114311@
+1 CHIL @114312@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:55:33
+0 @F0053@ FAM
+1 HUSB @114311супр@
+1 WIFE @114311@
+1 CHIL @1143111@
+1 CHIL @1143112@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:55:39
+0 @F0054@ FAM
+1 HUSB @114312супр@
+1 WIFE @114312@
+1 CHIL @1143121@
+1 CHIL @1143122@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:09
+0 @F0055@ FAM
+1 HUSB @11432супр@
+1 WIFE @11432@
+1 CHIL @114321@
+1 CHIL @114322@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:15
+0 @F0056@ FAM
+1 HUSB @114321супр@
+1 WIFE @114321@
+1 CHIL @1143211@
+1 CHIL @1143212@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:23
+0 @F0057@ FAM
+1 HUSB @114322супр2@
+1 WIFE @114322@
+1 CHIL @1143221@
+1 CHIL @1143222@
+1 CHIL @I0002@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:28
+0 @F0058@ FAM
+1 HUSB @115@
+1 WIFE @115супр@
+1 CHIL @1151@
+1 CHIL @1152@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:34
+0 @F0059@ FAM
+1 HUSB @1152супр@
+1 WIFE @1152@
+1 CHIL @11521@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:40
+0 @F0060@ FAM
+1 HUSB @13супр@
+1 WIFE @13@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:56:57
+0 @F0061@ FAM
+1 HUSB @14@
+1 CHIL @141@
+1 CHIL @142@
+1 CHIL @143@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:57:05
+0 @F0062@ FAM
+1 HUSB @141супр@
+1 WIFE @141@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:57:14
+0 @F0063@ FAM
+1 HUSB @142супр@
+1 WIFE @142@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:57:21
+0 @F0064@ FAM
+1 HUSB @15@
+1 CHIL @151@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:57:35
+0 @F0065@ FAM
+1 HUSB @151супр@
+1 WIFE @151@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:57:44
+0 @F0066@ FAM
+1 HUSB @1@
+1 WIFE @1супр@
+1 CHIL @11@
+1 CHIL @12@
+1 CHIL @13@
+1 CHIL @14@
+1 CHIL @15@
+1 CHAN
+2 DATE 12 SEP 2026
+3 TIME 06:42:41
+0 @F0067@ FAM
+1 HUSB @0@
+1 CHIL @1@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:58:04
+0 @F0068@ FAM
+1 HUSB @000@
+1 CHIL @00@
+1 CHIL @01@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:58:11
+0 @F0069@ FAM
+1 HUSB @0000@
+1 CHIL @000@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:58:18
+0 @F0070@ FAM
+1 HUSB @12супр@
+1 WIFE @12@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:58:24
+0 @F0071@ FAM
+1 HUSB @1111@
+1 WIFE @1111супр1@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:58:31
+0 @F0072@ FAM
+1 HUSB @1111@
+1 WIFE @1111супр2@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:58:40
+0 @F0073@ FAM
+1 CHIL @1115@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:58:47
+0 @F0074@ FAM
+1 HUSB @1115@
+1 CHIL @11151@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:58:53
+0 @F0075@ FAM
+1 WIFE @11151@
+1 CHIL @111511@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:58:59
+0 @F0076@ FAM
+1 HUSB @1133@
+1 WIFE @1133супр2@
+1 CHIL @11332@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:59:04
+0 @F0077@ FAM
+1 HUSB @113321@
+1 WIFE @113321супр@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:59:10
+0 @F0078@ FAM
+1 HUSB @11351@
+1 CHIL @113511@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:59:15
+0 @F0079@ FAM
+1 HUSB @113@
+1 WIFE @113супр2@
+1 CHIL @1135@
+1 CHIL @1136@
+1 CHIL @1137@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:59:22
+0 @F0080@ FAM
+1 WIFE @113411@
+1 CHIL @1134111@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:59:31
+0 @F0081@ FAM
+1 HUSB @11361@
+1 CHIL @113611@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:59:38
+0 @F0082@ FAM
+1 HUSB @11412@
+1 WIFE @11412супр@
+1 CHIL @114121@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:59:43
+0 @F0083@ FAM
+1 HUSB @114111супр@
+1 WIFE @114111@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 06:59:50
+0 @F0084@ FAM
+1 HUSB @114121@
+1 WIFE @114121супр@
+1 CHIL @1141211@
+1 CHIL @1141212@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 07:00:02
+0 @F0085@ FAM
+1 HUSB @1142221супр@
+1 WIFE @1142221@
+1 CHIL @11422211@
+1 CHAN
+2 DATE 15 SEP 2026
+3 TIME 07:00:08
+0 @N0000@ NOTE Основатель Санкт-Петербургского фарфорового завода
+0 @N0001@ NOTE Суздальский протоирей (Космодемьянский собор)
+0 @N0002@ NOTE Давыдовы
+0 @N0003@ NOTE Кумашен.
+0 @N0005@ NOTE Основатель С.-Петербургского фарфорового завода
+0 @N0006@ NOTE Священник
+0 @N0007@ NOTE Настоятель Успенского собора
+0 @N0008@ NOTE Суздальский протоиерей (Козьмодемьянский собор)
+0 @N0009@ NOTE В исходных данных год смерти (1834) указан раньше года рождения (18
+1 CONC 72). Возможна опечатка.
+0 TRLR
